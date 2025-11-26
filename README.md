@@ -87,6 +87,6 @@ This is a critical technique used in: <br>
 
 ## 👨‍💻 Author
 
-Jay Bankar <br>
+Siddhi Hon <br>
 Deep Learning | NLP
 
